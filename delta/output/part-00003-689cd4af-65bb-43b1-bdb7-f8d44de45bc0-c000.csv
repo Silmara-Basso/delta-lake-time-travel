@@ -1,0 +1,2 @@
+Versão,Operação,Métricas,Metadados do Usuário
+1,UPDATE,"{\"numRemovedFiles\":\"1\",\"numRemovedBytes\":\"1491\",\"numCopiedRows\":\"9\",\"numDeletionVectorsAdded\":\"0\",\"numDeletionVectorsRemoved\":\"0\",\"numAddedChangeFiles\":\"0\",\"executionTimeMs\":\"559\",\"numDeletionVectorsUpdated\":\"0\",\"scanTimeMs\":\"386\",\"numAddedFiles\":\"1\",\"numUpdatedRows\":\"1\",\"numAddedBytes\":\"1517\",\"rewriteTimeMs\":\"171\"}",
