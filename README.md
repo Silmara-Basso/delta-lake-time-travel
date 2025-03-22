@@ -8,14 +8,4 @@ Uso de Apache Spark e Delta Lake para implementar um Data Lakehouse, com funcion
 
 `docker compose up -d`
 
-docker-compose build
-docker-compose up -d
-
-docker build -t delta-lake-sil .
-docker run --privileged -it delta-lake-sil /bin/bash
-
- spark-submit --version
-
- SPARK_SUBMIT_OPTS="-Djdk.internal.platform.cgroupv2.enable=false" spark-submit --version
-
-# Acesse o Jupyter Notebook pelo docker
+# Acesse o Jupyter Notebook pelo docker e fique a vontade para fazer seus testes
